@@ -9,7 +9,9 @@
   }
   body{
     all:unset;
-    overflow:hidden;
+    overflow-x:hidden;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
   }
   .explosion-node {
     background: var(--bg, white);
