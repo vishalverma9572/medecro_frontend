@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+body::-webkit-scrollbar {
+    display: none !important;
+}
 .dna-explosion {
     height: 65vmin;
     aspect-ratio: 2/5;
